@@ -1,7 +1,3 @@
-<p align="center">
-  <img style="height:auto;" alt="View amit-extreme's full-sized avatar" src="https://avatars.githubusercontent.com/u/34865395?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default" alt="Amit Tyagi">
-</p>
-
 <h1 align="center">👋 Hi, I'm Amit Tyagi</h1>
 
 <p align="center">
@@ -13,7 +9,7 @@
 
 ## 👨‍💻 About Me
 - 🔭 Working on **AI, LLMs, and Backend Systems**
-- 🧠 Experience with **Node.js, Express, FastAPI**
+- 🧠 Experience with **Node.js, Express, Laravel**
 - 🔐 SAML, OAuth, SSO, Authentication & Security
 - ☁️ AWS & Cloud Integrations
 - 🤖 AI Development (Claude AI, OpenAI, LLM APIs)
