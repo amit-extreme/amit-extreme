@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="amit.jpg" width="180" style="border-radius:50%;" alt="Amit Tyagi" />
+  <img style="height:auto;" alt="View amit-extreme's full-sized avatar" src="https://avatars.githubusercontent.com/u/34865395?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default" alt="Amit Tyagi">
 </p>
 
 <h1 align="center">👋 Hi, I'm Amit Tyagi</h1>
