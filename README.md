@@ -1,16 +1,61 @@
-## Hi there 👋
+<p align="center">
+  <img src="profile.jpg" width="180" style="border-radius:50%;" alt="Amit Tyagi" />
+</p>
 
-<!--
-**amit-extreme/amit-extreme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm Amit Tyagi</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 Software Engineer | Node.js & React, Backbone, Laravel <br/>
+  📍 India
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+- 🔭 Working on **AI, LLMs, and Backend Systems**
+- 🧠 Experience with **Node.js, Express, FastAPI**
+- 🔐 SAML, OAuth, SSO, Authentication & Security
+- ☁️ AWS & Cloud Integrations
+- 🤖 AI Development (Claude AI, OpenAI, LLM APIs)
+
+---
+
+## 🛠️ Tech Stack
+**Languages**
+- JavaScript / TypeScript
+- Node.js
+- React
+- Laravel  
+
+**Backend**
+- Node.js, Express
+- FastAPI
+
+**Frontend**
+- Angular
+
+**AI / ML**
+- LLM APIs
+- Prompt Engineering
+
+**Databases**
+- MySQL
+- PostgreSQL
+
+---
+
+## 📌 Featured Projects
+- 🔐 **SSO & SAML Authentication System**
+- 🤖 **AI-powered Chat Application**
+- 📊 **Invoice Generator Desktop App (Python)**
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 🐙 GitHub: https://github.com/amit-extreme
+- ✉️ Email: amitt6580@gmail.com
+
+---
+
+⭐ *Feel free to check out my repositories and contribute!*
