@@ -30,13 +30,13 @@
 **Backend**
 - Node.js, Express
 - FastAPI
+- Laravel
 
 **Frontend**
-- Angular
+- React
+- Bacbone
+- Marionette
 
-**AI / ML**
-- LLM APIs
-- Prompt Engineering
 
 **Databases**
 - MySQL
@@ -55,6 +55,13 @@
 - 💼 LinkedIn: https://linkedin.com/in/your-profile
 - 🐙 GitHub: https://github.com/amit-extreme
 - ✉️ Email: amitt6580@gmail.com
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amit-extreme&show_icons=true)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amit-extreme&layout=compact)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+
+
 
 ---
 
