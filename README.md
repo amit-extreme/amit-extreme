@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Amit Tyagi</h1>
 
 <p align="center">
-  🚀 Software Engineer | Node.js & React, Backbone, Laravel <br/>
+  🚀 Lead Software Engineer | FullStack Developer <br/>
   📍 India
 </p>
 
