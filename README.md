@@ -52,7 +52,7 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 💼 LinkedIn: https://linkedin.com/in/amittyyagi
 - 🐙 GitHub: https://github.com/amit-extreme
 - ✉️ Email: amitt6580@gmail.com
 - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amit-extreme&show_icons=true)
