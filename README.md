@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.jpg" width="180" style="border-radius:50%;" alt="Amit Tyagi" />
+  <img src="amit.jpg" width="180" style="border-radius:50%;" alt="Amit Tyagi" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Amit Tyagi</h1>
